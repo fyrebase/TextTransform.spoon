@@ -1,3 +1,5 @@
+<img src="./text-transform.webp" alt="Global Text Transform">
+
 # TextTransform.spoon
 Enhance your text manipulation capabilities with a global context menu. This Hammerspoon Spoon lets you to effortlessly transform text strings and offers handy helpers for MarkDown links, MarkDown → Slack MarkDown conversion, and quick Jira links.
 
